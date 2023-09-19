@@ -1,7 +1,8 @@
 # BREW-PHP-SWITCHER
 > Only for MacOS(zsh).
 
-A simple script to switch PHP versions(brew installed). 
+A simple script to switch PHP versions(brew installed). <br>
+Suitable for environments with <b>PHP(shivammathur/php/php) + APACHE(httpd)</b> configured.
 ## Supports
 PHP in shivammathur/php/php, include:
 * PHP@5.6
