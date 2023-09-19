@@ -34,5 +34,9 @@ Example:
 > zsh bps.sh -a swith_php_change_httpd -t PHP@7.4
 ```
 
+## TODO
+[ ] Supports automatic configuration of XDEBUG plug-ins.
+> Environments without XDEBUG plug-ins will be installed and configured when switching PHP versions.
+
 ## LICENSE
 MIT
